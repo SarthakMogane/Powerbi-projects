@@ -1,3 +1,5 @@
+#Power BI dashboard projects
+
 This repository contains a portfolio of Power BI dashboard projects showcasing my skills in data cleaning, transformation, and visualization. Each project addresses a unique dataset and business problem, providing interactive dashboards and meaningful insights.
 
 💼 How to Use This Repo
