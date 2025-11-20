@@ -7,6 +7,7 @@
 <p align="center">
     <img src="bird-strike-dashboard/assets/image.png" alt="Dashboards" width="70%">
 </p>
+
 ## 🚀 Data Science Internship Showcase - Unified Mentor
 
 This portfolio showcases the Power BI dashboard projects I completed during my **one-month remote Data Science internship** at **Unified Mentor**. These projects demonstrate my proficiency in the end-to-end process of data analysis, from cleaning and transformation to creating impactful, interactive data visualizations.
